@@ -1,0 +1,81 @@
+{
+  "title": "CKA Killercoda Practice",
+  "description": "Original hands-on exercises for CKA preparation",
+  "items": [
+    {
+      "path": "01-kubectl-core",
+      "title": "01 \u00b7 kubectl Core",
+      "description": "Namespaces, Pods, labels, annotations and output."
+    },
+    {
+      "path": "02-workloads",
+      "title": "02 \u00b7 Workloads",
+      "description": "Deployments, ReplicaSets, rollouts, Jobs and CronJobs."
+    },
+    {
+      "path": "03-configuration",
+      "title": "03 \u00b7 Configuration",
+      "description": "ConfigMaps, Secrets, env vars and volumes."
+    },
+    {
+      "path": "04-scheduling",
+      "title": "04 \u00b7 Scheduling",
+      "description": "Selectors, affinity, taints, tolerations and priority."
+    },
+    {
+      "path": "05-services-networking",
+      "title": "05 \u00b7 Services & Networking",
+      "description": "ClusterIP, NodePort, selectors, DNS and EndpointSlices."
+    },
+    {
+      "path": "06-network-policies",
+      "title": "06 \u00b7 Network Policies",
+      "description": "Default deny and label-based ingress/egress policy objects."
+    },
+    {
+      "path": "07-storage",
+      "title": "07 \u00b7 Storage",
+      "description": "PV, PVC, emptyDir and volume mounts."
+    },
+    {
+      "path": "08-rbac",
+      "title": "08 \u00b7 RBAC & ServiceAccounts",
+      "description": "Roles, bindings, service accounts and least privilege."
+    },
+    {
+      "path": "09-resources-security",
+      "title": "09 \u00b7 Resources & Pod Security",
+      "description": "Requests, limits, securityContext and probes."
+    },
+    {
+      "path": "10-multi-container",
+      "title": "10 \u00b7 Multi-container Pods",
+      "description": "Init containers, sidecars and shared volumes."
+    },
+    {
+      "path": "11-troubleshooting-workloads",
+      "title": "11 \u00b7 Workload Troubleshooting",
+      "description": "Repair broken images, selectors, crash loops and probes."
+    },
+    {
+      "path": "12-cluster-admin",
+      "title": "12 \u00b7 Cluster Administration",
+      "description": "Contexts, node operations and control-plane awareness."
+    },
+    {
+      "path": "mock-exam-1",
+      "title": "Mock Exam 1",
+      "description": "10 mixed CKA-style tasks. No hints."
+    },
+    {
+      "path": "mock-exam-2",
+      "title": "Mock Exam 2",
+      "description": "10 mixed CKA-style tasks. No hints."
+    },
+    {
+      "path": "mock-exam-3",
+      "title": "Mock Exam 3",
+      "description": "10 mixed CKA-style tasks. No hints."
+    }
+  ]
+}

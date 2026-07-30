@@ -1,0 +1,38 @@
+{
+  "title": "Secrets · Exercises 27–30",
+  "description": "Create, inspect and consume Kubernetes Secrets as environment variables and mounted files.",
+  "details": {
+    "intro": {
+      "text": "intro.md",
+      "background": "background.sh"
+    },
+    "steps": [
+      {
+        "title": "Exercise 27 · Create a Secret from literals",
+        "text": "step1/text.md",
+        "verify": "step1/verify.sh"
+      },
+      {
+        "title": "Exercise 28 · Inspect the encoding",
+        "text": "step2/text.md",
+        "verify": "step2/verify.sh"
+      },
+      {
+        "title": "Exercise 29 · Secret environment variables",
+        "text": "step3/text.md",
+        "verify": "step3/verify.sh"
+      },
+      {
+        "title": "Exercise 30 · Mount a Secret as files",
+        "text": "step4/text.md",
+        "verify": "step4/verify.sh"
+      }
+    ],
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

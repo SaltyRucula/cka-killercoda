@@ -63,6 +63,11 @@
       "description": "Contexts, node operations and control-plane awareness."
     },
     {
+      "path": "13-secrets",
+      "title": "13 \u00b7 Secrets",
+      "description": "Secrets."
+    },
+    {
       "path": "mock-exam-1",
       "title": "Mock Exam 1",
       "description": "10 mixed CKA-style tasks. No hints."

@@ -1,0 +1,33 @@
+{
+  "title": "CKAD · Resources and Limits · Exercises 34–36",
+  "description": "Practice Kubernetes CPU and memory requests, unschedulable workloads, and OOMKilled containers.",
+  "details": {
+    "intro": {
+      "text": "intro.md",
+      "background": "background.sh"
+    },
+    "steps": [
+      {
+        "title": "Exercise 34 · Set requests and limits",
+        "text": "step1/text.md",
+        "verify": "step1/verify.sh"
+      },
+      {
+        "title": "Exercise 35 · Create an impossible request",
+        "text": "step2/text.md",
+        "verify": "step2/verify.sh"
+      },
+      {
+        "title": "Exercise 36 · Trigger an out-of-memory kill",
+        "text": "step3/text.md",
+        "verify": "step3/verify.sh"
+      }
+    ],
+    "finish": {
+      "text": "finish.md"
+    }
+  },
+  "backend": {
+    "imageid": "kubernetes-kubeadm-1node"
+  }
+}

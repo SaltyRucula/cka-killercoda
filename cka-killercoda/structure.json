@@ -68,7 +68,7 @@
       "description": "Secrets."
     },
     {
-      "path": "14-Resource Requests and Limits",
+      "path": "14-resource-requests-and-limits",
       "title": "14 \u00b7 Resource Requests and Limits",
       "description": "Requests tell the scheduler how much CPU and memory a Pod needs; limits cap how much it may use. They are central to reliable scheduling."
     },
